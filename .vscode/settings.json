@@ -75,6 +75,5 @@
   },
   "python.analysis.extraPaths": ["./app"],
   "python.envFile": "${workspaceFolder}/.env",
-  "python-envs.pythonProjects": [],
 
 }
