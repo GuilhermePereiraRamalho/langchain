@@ -178,6 +178,7 @@ pyrightconfig.json
 
 # Local vector DB artifacts
 files/chroma_retrival_bd/
+arquivos/
 files/chroma_vectorstore/
 
 
