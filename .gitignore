@@ -177,10 +177,7 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 # Local vector DB artifacts
-knowledge/chroma/
+files/chroma_retrival_bd/
+files/chroma_vectorstore/
 
-# Claude Code local settings
-.claude/settings.local.json
 
-# Local task notes/plans
-tasks/
